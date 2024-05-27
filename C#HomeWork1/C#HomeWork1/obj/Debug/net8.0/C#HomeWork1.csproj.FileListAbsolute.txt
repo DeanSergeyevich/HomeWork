@@ -1,0 +1,14 @@
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\bin\Debug\net8.0\C#HomeWork1.exe
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\bin\Debug\net8.0\C#HomeWork1.deps.json
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\bin\Debug\net8.0\C#HomeWork1.runtimeconfig.json
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\bin\Debug\net8.0\C#HomeWork1.dll
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\bin\Debug\net8.0\C#HomeWork1.pdb
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.AssemblyInfoInputs.cache
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.AssemblyInfo.cs
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.csproj.CoreCompileInputs.cache
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.dll
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\refint\C#HomeWork1.dll
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.pdb
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\C#HomeWork1.genruntimeconfig.cache
+E:\VisualCodes\C#HomeWork1\C#HomeWork1\obj\Debug\net8.0\ref\C#HomeWork1.dll
